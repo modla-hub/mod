@@ -1,0 +1,6 @@
+{
+  "name": "AI Song Video Storyboard Creator",
+  "description": "สร้าง Storyboard 8 ฉาก และเขียน Prompt ภาพวิดีโอ (Veo) พร้อมรวมคลิป 9:16 ลง YouTube Shorts และ TikTok",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
